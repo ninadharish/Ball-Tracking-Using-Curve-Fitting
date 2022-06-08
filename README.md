@@ -54,12 +54,12 @@ Two videos of a red moving ball are considered here. The first one is noise free
 
 * Clone the repository into any folder of your choice.
 ```
-git clone https://github.com/ninadharish/Path-Planning-Dijkstra-Algorithm.git
+git clone https://github.com/ninadharish/Ball-Tracking-Using-Curve-Fitting.git
 ```
 
 * Open the repository and navigate to the `src` folder.
 ```
-cd Path-Planning-Dijkstra-Algorithm/src
+cd Ball-Tracking-Using-Curve-Fitting/src
 ```
 
 * Run the program.
