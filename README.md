@@ -11,9 +11,9 @@ Given a video of a moving ball, this project finds the trajectory of the ball by
 
 Two videos of a red moving ball are considered here. The first one is noise free, while the second one has some noise with respect to the movement of the ball.
 
-![alt text](/output/ball1.png)
+![alt text](/output/ball1.gif)
 
-![alt text](/output/ball2.png)
+![alt text](/output/ball2.gif)
 
 
 ## Approach
@@ -42,7 +42,7 @@ Two videos of a red moving ball are considered here. The first one is noise free
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&ensp; </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.codebykelvin.com/learning/python/data-science/numpy-series/cover-numpy.png" alt="numpy" width="40" height="40"/>&ensp; </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5009934?v=4&s=400" alt="opencv" width="40" height="40"/>&ensp; </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/>&ensp; </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="matplotlib" width="40" height="40"/>&ensp; </a>
 
 * [Python 3](https://www.python.org/)
 * [NumPy](https://numpy.org/)
