@@ -1,5 +1,3 @@
-![alt text](/output/output.gif)
-
 # Ball Tracking Using Curve Fitting
 
 ## Description
