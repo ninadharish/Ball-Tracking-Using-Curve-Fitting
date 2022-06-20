@@ -84,6 +84,6 @@ def plot(i, video):
 
 if __name__ == "__main__":
 
-    plot(1, './data/ball_video1.mp4') #Plot the trajectory of the ball for the first video in Figure 1
-    plot(2, './data/ball_video2.mp4') #Plot the trajectory of the ball for the second video in Figure 2
+    plot(1, '../data/ball_video1.mp4') #Plot the trajectory of the ball for the first video in Figure 1
+    plot(2, '../data/ball_video2.mp4') #Plot the trajectory of the ball for the second video in Figure 2
     plt.show()
